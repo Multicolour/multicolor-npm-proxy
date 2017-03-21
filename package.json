@@ -1,10 +1,10 @@
 {
   "name": "multicolor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate your REST API with JSON and use almost any DB tech.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"Oops, did you mean `npm install multicolour` sorry about that, cup of tea? 🇬🇧 🇺🇸\" && exit 1"
+    "postinstall": "echo \"🇬🇧🇺🇸 Oops, lets try installing that with a u.\n'n`npm install multicolour`.\n\nIf it doesn't install please run npm install multicolour\""
   },
   "repository": {
     "type": "git",
