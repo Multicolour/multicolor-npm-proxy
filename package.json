@@ -1,0 +1,20 @@
+{
+  "name": "multicolor",
+  "version": "1.0.0",
+  "description": "Generate your REST API with JSON and use almost any DB tech.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo \"Oops, did you mean `npm install -S multicolour` sorry about that, cup of tea? 🇬🇧 🇺🇸\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Multicolour/multicolor-npm-proxy.git"
+  },
+  "keywords": ["Multicolour", "REST API", "generator", "ORM"],
+  "author": "newworldcode <hello@newworld.codes> (https://newworld.codes)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Multicolour/multicolour/issues"
+  },
+  "homepage": "https://github.com/Multicolour/multicolour#readme",
+}
